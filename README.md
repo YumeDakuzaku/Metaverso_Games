@@ -2,19 +2,20 @@
 
 Desafio 1 - Criar uma experiência no Roblox
 
-Nesse primeiro desafio criei um cenário de skatepark utlizando os conceitos ensinados no curso: Formação Game Developer da Dio.me
+Nesse primeiro desafio criei um cenário de skatepark utilizando os conceitos ensinados no curso: Formação Game Developer da Dio.me
 
 Sendo eles:
 
 - objetos em cena
 - tipos de parts
 - biblioteca de recursos: toolbox
-- tipos de iluminação,
+- tipos de iluminação
 - cenários
 - organização de pastas 
 - publicação do jogo
 
 Link para jogar:
+
 https://www.roblox.com/games/10089189071/YumePark-Patins-e-BMX
 
 Algumas imagens:
