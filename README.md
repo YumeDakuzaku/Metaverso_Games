@@ -2,7 +2,8 @@
 
 Desafio 1 - Criar uma experiência no Roblox
 
-Nesse primeiro desafio criei um cenário de skatepark utilizando os conceitos ensinados no curso: Formação Game Developer da Dio.me
+Nesse primeiro desafio criei um cenário de skatepark utilizando os conceitos ensinados no curso: Formação Game Developer da Dio.me ministrado por: 
+Leonardo Felipe Serra Vasques - Game Developer
 
 Sendo eles:
 
